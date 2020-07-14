@@ -1,8 +1,7 @@
 # Hnu
-the first web project
-注意
-运行此项目后，请到localhost:8080/listStudent网址下查看,该网址为主页
-
+the first web project<br>
+注意<br>
+运行此项目后，请到localhost:8080/listStudent网址下查看,该网址为主页<br>
 实现了score和student两个数据的增删改查,score和student通过字段stuNo关联<br>
 使用springboot+mybatis+mysql,mysql版本为8.0.20<br><br>
 在路径/src/main/resources中，application.properties内存放了数据库的相关信息，可用过修改相关信息修改项目连接的数据库<br><br>
